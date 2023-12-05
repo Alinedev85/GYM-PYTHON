@@ -1,6 +1,6 @@
 # GYM-PYTHON - Repositório de Estudos  🚀
 
-Este repositório contém os trabalhos, conteúdos de aula e exercícios relacionados ao aprendizado de Python. Aqui está uma breve descrição de cada pasta:
+Este repositório contém os trabalhos, exercícios relacionados ao aprendizado de Python durante o `Bootcamp da Embraer Social Tech Careers`. Aqui está uma breve descrição de cada pasta:
 
 ## Aplicações
 
