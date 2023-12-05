@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1wLkBEnrfI9eIUPaelxj6X4Xrahd1lB-S
 """
 
+
 import pandas  as pd
 
 url = "https://raw.githubusercontent.com/escola-de-dados/notebooks-python-pandas/master/mlb.csv"
